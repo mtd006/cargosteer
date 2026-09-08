@@ -1,0 +1,20 @@
+# CargoSteer Transport
+
+> Freight booking portal and commercial transporter coordination system for companies and factories.
+
+- Primary URL: https://mtd006.github.io/cargosteer/
+- Platform: web portal + Android client access
+- Use case: freight quotation, vehicle sourcing, shipment tracking, LR documents, invoices, billing, and support
+
+## Summary
+CargoSteer is a digital logistics and transporter-service portal. The site presents a workflow for lane enquiry, commercial confirmation, shipment movement, document access, and closure. The homepage also includes a visible SEO layer explaining third party transporter coordination, market vehicle hiring, B2B freight service, and dashboard-based client operations.
+
+## Key search topics
+freight booking portal, transport management portal, shipment tracking dashboard, local transporter quotes, market vehicle hiring, client logistics dashboard, LR copies, invoice visibility, B2B transport service, digital freight workflow
+
+## Main sections
+- Homepage: https://mtd006.github.io/cargosteer/
+- Service SEO section: https://mtd006.github.io/cargosteer/#transport-seo
+- Compliance: https://mtd006.github.io/cargosteer/#compliance
+- Mobile app: https://mtd006.github.io/cargosteer/#app
+- Contact and policies: https://mtd006.github.io/cargosteer/#contact
